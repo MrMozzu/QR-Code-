@@ -9,7 +9,7 @@ This project/repository provides a way for users to **support me or make payment
 
 Scan the QR code below with your payment app (UPI, PayPal, etc.) to make a payment:
 
-![Payment QR Code](payment_qr.png)
+![Payment QR Code](phonepe_qr.png)
 
 
 ## 🔹 How to Use
