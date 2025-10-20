@@ -1,7 +1,7 @@
-# Support / Payment QR Code
+#   Payment QR Code
 
 Welcome! 😊  
-This project/repository provides a way for users to **support me or make payments** directly via scanning the QR code below.
+This project/repository provides a way for users to   make payments directly via scanning the QR code below.
 
 ---
 
